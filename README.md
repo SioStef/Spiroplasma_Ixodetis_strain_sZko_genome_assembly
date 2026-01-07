@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1129883884.svg)](https://doi.org/10.5281/zenodo.18176388)
+
+
 # Spiroplasma_Ixodetis_strain_sZko_genome
 This repository contains the genome assembly of Spiroplasma ixodetis strain sZko, associated with the drosophilid Zaprionus kolodkinae, along with corresponding annotation data.
 
